@@ -1,0 +1,9 @@
+Hit/Total: 0.2143
+H/T for level 1: 0.0000
+H/T for level 2: 0.8000
+H/T for level 3: 0.1333
+ Average Reaction Time: -0.3333
+Orientation: 0.6000 
+Understanding: 0.5000
+Concentration: 0.7500
+Memory Score: 1.0
